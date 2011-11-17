@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="27" endPosition="0" unitName="mazin.sqlBuilder.constraints.ConstraintsAspectDescriptor" />
+  <root nodeId="1217947231272839238">
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="29" startPosition="82" endLine="30" endPosition="183" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_pcx0dq_a0a1a0a0a1a0b0a1a0" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="32" startPosition="46" endLine="33" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="37" startPosition="83" endLine="38" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="41" startPosition="44" endLine="42" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4746038179140430747" fileName="SqlBuildersMethodCall_Constraints.java" startLine="50" startPosition="142" endLine="51" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1217947231272864756" fileName="SqlBuildersMethodCall_Constraints.java" startLine="51" startPosition="56" endLine="52" endPosition="139" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1217947231272868017" fileName="SqlBuildersMethodCall_Constraints.java" startLine="52" startPosition="139" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="7785501532031511800" fileName="SqlBuildersMethodCall_Constraints.java" startLine="54" startPosition="34" endLine="55" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7785501532031519839" fileName="SqlBuildersMethodCall_Constraints.java" startLine="55" startPosition="90" endLine="56" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7785501532031519865" fileName="SqlBuildersMethodCall_Constraints.java" startLine="56" startPosition="71" endLine="57" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3156323259689957580" fileName="SqlBuildersMethodCall_Constraints.java" startLine="62" startPosition="18" endLine="63" endPosition="161" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7785501532031519904" fileName="SqlBuildersMethodCall_Constraints.java" startLine="65" startPosition="110" endLine="66" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7543648522709207082" fileName="SqlBuildersMethodCall_Constraints.java" startLine="69" startPosition="65" endLine="70" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6692496373121332222" fileName="SqlBuildersMethodCall_Constraints.java" startLine="71" startPosition="17" endLine="72" endPosition="147" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6692496373121332239" fileName="SqlBuildersMethodCall_Constraints.java" startLine="73" startPosition="141" endLine="74" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7785501532031519848" fileName="SqlBuildersMethodCall_Constraints.java" startLine="75" startPosition="17" endLine="76" endPosition="134" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1217947231272868021" fileName="SqlBuildersMethodCall_Constraints.java" startLine="78" startPosition="13" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="7785501532031511851" fileName="SqlBuildersMethodCall_Constraints.java" startLine="79" startPosition="0" endLine="80" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="84" startPosition="61" endLine="85" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="89" startPosition="7" endLine="90" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="31" startPosition="0" endLine="34" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SqlBuildersMethodCall_Constraints#()V" />
+    <nodeInfo nodeId="7785501532031519885" fileName="SqlBuildersMethodCall_Constraints.java" startLine="64" startPosition="65" endLine="67" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7543648522709207057" fileName="SqlBuildersMethodCall_Constraints.java" startLine="68" startPosition="17" endLine="71" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="6692496373121332209" fileName="SqlBuildersMethodCall_Constraints.java" startLine="72" startPosition="147" endLine="75" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3156323259689957594" fileName="SqlBuildersMethodCall_Constraints.java" startLine="58" startPosition="42" endLine="62" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="39" startPosition="115" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="7785501532031519859" fileName="SqlBuildersMethodCall_Constraints.java" startLine="63" startPosition="161" endLine="68" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="82" startPosition="0" endLine="87" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Ljetbrains/mps/smodel/SNodePointer;" />
+    <nodeInfo nodeId="7785501532031511811" fileName="SqlBuildersMethodCall_Constraints.java" startLine="57" startPosition="77" endLine="77" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="1217947231272864767" fileName="SqlBuildersMethodCall_Constraints.java" startLine="53" startPosition="0" endLine="78" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="48" startPosition="49" endLine="82" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="47" startPosition="56" endLine="87" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="44" startPosition="0" endLine="89" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="38" startPosition="75" endLine="89" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="35" startPosition="0" endLine="92" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultReferences#()Ljava/util/Map;" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="32" startPosition="46" endLine="33" endPosition="62" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="41" startPosition="44" endLine="42" endPosition="20" />
+    <scopeInfo nodeId="7785501532031519886" fileName="SqlBuildersMethodCall_Constraints.java" startLine="65" startPosition="110" endLine="66" endPosition="69" />
+    <scopeInfo nodeId="7543648522709207060" fileName="SqlBuildersMethodCall_Constraints.java" startLine="69" startPosition="65" endLine="70" endPosition="103" />
+    <scopeInfo nodeId="6692496373121332210" fileName="SqlBuildersMethodCall_Constraints.java" startLine="73" startPosition="141" endLine="74" endPosition="32" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="84" startPosition="61" endLine="85" endPosition="58" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="31" startPosition="0" endLine="34" endPosition="3" />
+    <scopeInfo nodeId="7785501532031519861" fileName="SqlBuildersMethodCall_Constraints.java" startLine="64" startPosition="65" endLine="67" endPosition="19" />
+    <scopeInfo nodeId="7543648522709207057" fileName="SqlBuildersMethodCall_Constraints.java" startLine="68" startPosition="17" endLine="71" endPosition="17">
+      <varInfo nodeId="7543648522709207058" varName="method" />
+    </scopeInfo>
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="39" startPosition="115" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="7785501532031519859" fileName="SqlBuildersMethodCall_Constraints.java" startLine="63" startPosition="161" endLine="68" endPosition="17">
+      <varInfo nodeId="7785501532031519860" varName="method" />
+    </scopeInfo>
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="82" startPosition="0" endLine="87" endPosition="0" />
+    <scopeInfo nodeId="7785501532031511815" fileName="SqlBuildersMethodCall_Constraints.java" startLine="58" startPosition="42" endLine="76" endPosition="134">
+      <varInfo nodeId="3156323259689957581" varName="instanceMethodDeclarations" />
+      <varInfo nodeId="3156323259689957595" varName="context" />
+      <varInfo nodeId="6692496373121332223" varName="method" />
+    </scopeInfo>
+    <scopeInfo nodeId="1217947231272864768" fileName="SqlBuildersMethodCall_Constraints.java" startLine="54" startPosition="34" endLine="77" endPosition="15">
+      <varInfo nodeId="7785501532031519866" varName="names" />
+      <varInfo nodeId="7785501532031519840" varName="constraint" />
+      <varInfo nodeId="7785501532031511801" varName="classifier" />
+    </scopeInfo>
+    <scopeInfo nodeId="1217947231272839241" fileName="SqlBuildersMethodCall_Constraints.java" startLine="50" startPosition="142" endLine="80" endPosition="26">
+      <varInfo nodeId="4746038179140430748" varName="result" />
+      <varInfo nodeId="1217947231272864757" varName="builder" />
+    </scopeInfo>
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="48" startPosition="49" endLine="82" endPosition="0" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="47" startPosition="56" endLine="87" endPosition="10" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="44" startPosition="0" endLine="89" endPosition="0" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="37" startPosition="83" endLine="90" endPosition="22" />
+    <scopeInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="35" startPosition="0" endLine="92" endPosition="0" />
+    <unitInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="48" startPosition="19" endLine="87" endPosition="9" unitName="mazin.sqlBuilder.constraints.SqlBuildersMethodCall_Constraints$2" />
+    <unitInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="39" startPosition="48" endLine="89" endPosition="5" unitName="mazin.sqlBuilder.constraints.SqlBuildersMethodCall_Constraints$1" />
+    <unitInfo nodeId="1217947231272839238" fileName="SqlBuildersMethodCall_Constraints.java" startLine="29" startPosition="0" endLine="93" endPosition="0" unitName="mazin.sqlBuilder.constraints.SqlBuildersMethodCall_Constraints" />
+  </root>
+  <root nodeId="2591744203542921086">
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="24" startPosition="76" endLine="25" endPosition="183" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_vw8nfq_a0a3a0a0a1a0b0a1a0" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="25" startPosition="183" endLine="26" endPosition="183" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_vw8nfq_a0a1a0a0a1a0b0a2a0" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="28" startPosition="40" endLine="29" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="33" startPosition="83" endLine="34" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="37" startPosition="44" endLine="38" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="46" startPosition="44" endLine="47" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921102" fileName="ColumnReference_Constraints.java" startLine="59" startPosition="142" endLine="60" endPosition="140" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2591744203542953314" fileName="ColumnReference_Constraints.java" startLine="60" startPosition="140" endLine="61" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2591744203542953326" fileName="ColumnReference_Constraints.java" startLine="62" startPosition="97" endLine="63" endPosition="136" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542953301" fileName="ColumnReference_Constraints.java" startLine="64" startPosition="13" endLine="65" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="69" startPosition="61" endLine="70" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="77" startPosition="44" endLine="78" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542970188" fileName="ColumnReference_Constraints.java" startLine="86" startPosition="142" endLine="87" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2591744203542970199" fileName="ColumnReference_Constraints.java" startLine="88" startPosition="261" endLine="89" endPosition="182" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542970171" fileName="ColumnReference_Constraints.java" startLine="90" startPosition="13" endLine="91" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="95" startPosition="61" endLine="96" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="100" startPosition="7" endLine="101" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="27" startPosition="0" endLine="30" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ColumnReference_Constraints#()V" />
+    <nodeInfo nodeId="2591744203542953279" fileName="ColumnReference_Constraints.java" startLine="61" startPosition="50" endLine="64" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2591744203542970202" fileName="ColumnReference_Constraints.java" startLine="87" startPosition="39" endLine="90" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2591744203542964461" fileName="ColumnReference_Constraints.java" startLine="51" startPosition="128" endLine="55" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="35" startPosition="83" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="44" startPosition="49" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasPresentation#()Z" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="67" startPosition="0" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Ljetbrains/mps/smodel/SNodePointer;" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="75" startPosition="85" endLine="80" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="93" startPosition="0" endLine="98" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Ljetbrains/mps/smodel/SNodePointer;" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="49" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getPresentation#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferencePresentationContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="84" startPosition="49" endLine="93" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="57" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="83" startPosition="56" endLine="98" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="80" startPosition="0" endLine="100" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="74" startPosition="7" endLine="100" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="43" startPosition="56" endLine="72" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="40" startPosition="0" endLine="74" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="34" startPosition="75" endLine="74" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="31" startPosition="0" endLine="103" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultReferences#()Ljava/util/Map;" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="28" startPosition="40" endLine="29" endPosition="56" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="37" startPosition="44" endLine="38" endPosition="20" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="46" startPosition="44" endLine="47" endPosition="24" />
+    <scopeInfo nodeId="2591744203542953280" fileName="ColumnReference_Constraints.java" startLine="62" startPosition="97" endLine="63" endPosition="136" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="69" startPosition="61" endLine="70" endPosition="58" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="77" startPosition="44" endLine="78" endPosition="20" />
+    <scopeInfo nodeId="2591744203542970204" fileName="ColumnReference_Constraints.java" startLine="88" startPosition="261" endLine="89" endPosition="182" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="95" startPosition="61" endLine="96" endPosition="58" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="27" startPosition="0" endLine="30" endPosition="3" />
+    <scopeInfo nodeId="2591744203542964460" fileName="ColumnReference_Constraints.java" startLine="51" startPosition="128" endLine="55" endPosition="14" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="35" startPosition="83" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="44" startPosition="49" endLine="49" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="67" startPosition="0" endLine="72" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="75" startPosition="85" endLine="80" endPosition="0" />
+    <scopeInfo nodeId="2591744203542970170" fileName="ColumnReference_Constraints.java" startLine="86" startPosition="142" endLine="91" endPosition="27">
+      <varInfo nodeId="2591744203542970189" varName="columns" />
+    </scopeInfo>
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="93" startPosition="0" endLine="98" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921090" fileName="ColumnReference_Constraints.java" startLine="59" startPosition="142" endLine="65" endPosition="34">
+      <varInfo nodeId="2591744203542953315" varName="tableReference" />
+      <varInfo nodeId="2591744203542921103" varName="select" />
+    </scopeInfo>
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="49" startPosition="0" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="84" startPosition="49" endLine="93" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="57" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="83" startPosition="56" endLine="98" endPosition="10" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="80" startPosition="0" endLine="100" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="43" startPosition="56" endLine="72" endPosition="10" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="40" startPosition="0" endLine="74" endPosition="0" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="33" startPosition="83" endLine="101" endPosition="22" />
+    <scopeInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="31" startPosition="0" endLine="103" endPosition="0" />
+    <unitInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="84" startPosition="19" endLine="98" endPosition="9" unitName="mazin.sqlBuilder.constraints.ColumnReference_Constraints$3" />
+    <unitInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="75" startPosition="33" endLine="100" endPosition="5" unitName="mazin.sqlBuilder.constraints.ColumnReference_Constraints$2" />
+    <unitInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="44" startPosition="19" endLine="72" endPosition="9" unitName="mazin.sqlBuilder.constraints.ColumnReference_Constraints$2" />
+    <unitInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="35" startPosition="32" endLine="74" endPosition="5" unitName="mazin.sqlBuilder.constraints.ColumnReference_Constraints$1" />
+    <unitInfo nodeId="2591744203542921086" fileName="ColumnReference_Constraints.java" startLine="24" startPosition="0" endLine="104" endPosition="0" unitName="mazin.sqlBuilder.constraints.ColumnReference_Constraints" />
+  </root>
+</debugInfo>
+

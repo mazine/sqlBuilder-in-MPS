@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ForEachWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.ForEachWhereTerm_BehaviorDescriptor" />
+  <unitInfo fileName="ExpressionWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.ExpressionWhereTerm_BehaviorDescriptor" />
+  <unitInfo fileName="NotNullWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.NotNullWhereTerm_BehaviorDescriptor" />
+  <unitInfo fileName="SimpleWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.SimpleWhereTerm_BehaviorDescriptor" />
+  <unitInfo fileName="SelectQuery_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.SelectQuery_BehaviorDescriptor" />
+  <unitInfo fileName="SqlBuildersMethodCall_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.behavior.SqlBuildersMethodCall_BehaviorDescriptor" />
+  <unitInfo fileName="ColumnReference_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.behavior.ColumnReference_BehaviorDescriptor" />
+  <unitInfo fileName="WhereTerm_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.behavior.WhereTerm_BehaviorDescriptor" />
+  <unitInfo fileName="WhereBlock_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.behavior.WhereBlock_BehaviorDescriptor" />
+  <unitInfo fileName="FromBlock_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.behavior.FromBlock_BehaviorDescriptor" />
+  <unitInfo fileName="SqlQuery_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.behavior.SqlQuery_BehaviorDescriptor" />
+  <unitInfo fileName="Column_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="mazin.sqlBuilder.behavior.Column_BehaviorDescriptor" />
+  <unitInfo fileName="Table_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="mazin.sqlBuilder.behavior.Table_BehaviorDescriptor" />
+  <unitInfo fileName="TableReference_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="mazin.sqlBuilder.behavior.TableReference_BehaviorDescriptor" />
+  <unitInfo fileName="SqlBuilder_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="mazin.sqlBuilder.behavior.SqlBuilder_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="mazin.sqlBuilder.behavior.BehaviorAspectDescriptor" />
+</debugInfo>
+

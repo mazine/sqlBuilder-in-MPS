@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="SqlBuilder_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.structure.SqlBuilder_Language" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="53" endPosition="0" unitName="mazin.sqlBuilder.structure.StructureAspectDescriptor" />
+  <root nodeId="1217947231272806420">
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="12" startPosition="59" endLine="13" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="15" startPosition="44" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="19" startPosition="67" endLine="20" endPosition="121" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="23" startPosition="76" endLine="24" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="27" startPosition="76" endLine="28" endPosition="182" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="31" startPosition="62" endLine="32" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="14" startPosition="0" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SqlBuildersMethodCall#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getInstanceMethodDeclaration#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setInstanceMethodDeclaration#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/SqlBuildersMethodCall;" />
+    <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/SqlBuildersMethodCall;" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="15" startPosition="44" endLine="16" endPosition="16" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="19" startPosition="67" endLine="20" endPosition="121" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="23" startPosition="76" endLine="24" endPosition="40" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="27" startPosition="76" endLine="28" endPosition="182" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="31" startPosition="62" endLine="32" endPosition="56" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="14" startPosition="0" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <unitInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="12" startPosition="0" endLine="35" endPosition="0" unitName="mazin.sqlBuilder.structure.SqlBuildersMethodCall" />
+  </root>
+  <root nodeId="2591744203542882831">
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="16" startPosition="73" endLine="17" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="17" startPosition="79" endLine="18" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="NAME" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="18" startPosition="43" endLine="19" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SHORT_DESCRIPTION" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="19" startPosition="68" endLine="20" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ALIAS" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="20" startPosition="45" endLine="21" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VIRTUAL_PACKAGE" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="21" startPosition="64" endLine="22" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="FILTER_CLASS" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="22" startPosition="58" endLine="23" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="QUERY" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="23" startPosition="45" endLine="24" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SMODEL_ATTRIBUTE" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="26" startPosition="33" endLine="27" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="30" startPosition="27" endLine="31" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="34" startPosition="37" endLine="35" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="38" startPosition="39" endLine="39" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="42" startPosition="49" endLine="43" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="46" startPosition="28" endLine="47" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="50" startPosition="38" endLine="51" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="54" startPosition="37" endLine="55" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="58" startPosition="47" endLine="59" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="62" startPosition="40" endLine="63" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="66" startPosition="49" endLine="67" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="70" startPosition="30" endLine="71" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="74" startPosition="39" endLine="75" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="78" startPosition="41" endLine="79" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="82" startPosition="49" endLine="83" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="86" startPosition="48" endLine="87" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="90" startPosition="50" endLine="91" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="94" startPosition="69" endLine="95" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="98" startPosition="65" endLine="99" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="102" startPosition="51" endLine="103" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="25" startPosition="0" endLine="28" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SqlBuilder#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="37" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getShortDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="41" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setShortDescription#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="45" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="49" startPosition="0" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="53" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getVirtualPackage#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="57" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setVirtualPackage#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="61" startPosition="0" endLine="65" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getFilterClass#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="65" startPosition="0" endLine="69" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setFilterClass#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="69" startPosition="0" endLine="73" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getQuery#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="73" startPosition="0" endLine="77" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setQuery#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="77" startPosition="0" endLine="81" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributesCount#()I" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="81" startPosition="0" endLine="85" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="smodelAttributes#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="85" startPosition="0" endLine="89" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributes#()Ljava/util/List;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="89" startPosition="0" endLine="93" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="93" startPosition="0" endLine="97" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="97" startPosition="0" endLine="101" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/SqlBuilder;" />
+    <nodeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="101" startPosition="0" endLine="105" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/SqlBuilder;" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="26" startPosition="33" endLine="27" endPosition="16" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="30" startPosition="27" endLine="31" endPosition="45" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="34" startPosition="37" endLine="35" endPosition="45" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="38" startPosition="39" endLine="39" endPosition="58" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="42" startPosition="49" endLine="43" endPosition="58" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="46" startPosition="28" endLine="47" endPosition="46" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="50" startPosition="38" endLine="51" endPosition="46" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="54" startPosition="37" endLine="55" endPosition="56" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="58" startPosition="47" endLine="59" endPosition="56" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="62" startPosition="40" endLine="63" endPosition="88" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="66" startPosition="49" endLine="67" endPosition="53" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="70" startPosition="30" endLine="71" endPosition="70" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="74" startPosition="39" endLine="75" endPosition="43" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="78" startPosition="41" endLine="79" endPosition="59" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="82" startPosition="49" endLine="83" endPosition="71" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="86" startPosition="48" endLine="87" endPosition="74" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="90" startPosition="50" endLine="91" endPosition="53" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="94" startPosition="69" endLine="95" endPosition="62" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="98" startPosition="65" endLine="99" endPosition="160" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="102" startPosition="51" endLine="103" endPosition="45" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="25" startPosition="0" endLine="28" endPosition="3" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="37" startPosition="0" endLine="41" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="41" startPosition="0" endLine="45" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="45" startPosition="0" endLine="49" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="49" startPosition="0" endLine="53" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="53" startPosition="0" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="57" startPosition="0" endLine="61" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="61" startPosition="0" endLine="65" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="65" startPosition="0" endLine="69" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="69" startPosition="0" endLine="73" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="73" startPosition="0" endLine="77" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="77" startPosition="0" endLine="81" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="81" startPosition="0" endLine="85" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="85" startPosition="0" endLine="89" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="89" startPosition="0" endLine="93" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="93" startPosition="0" endLine="97" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="97" startPosition="0" endLine="101" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="101" startPosition="0" endLine="105" endPosition="0" />
+    <unitInfo nodeId="2591744203542882831" fileName="SqlBuilder.java" startLine="16" startPosition="0" endLine="106" endPosition="0" unitName="mazin.sqlBuilder.structure.SqlBuilder" />
+  </root>
+  <root nodeId="2591744203542882849">
+    <nodeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="11" startPosition="43" endLine="12" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="14" startPosition="31" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="18" startPosition="63" endLine="19" endPosition="156" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="22" startPosition="49" endLine="23" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SqlQuery#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/SqlQuery;" />
+    <nodeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/SqlQuery;" />
+    <scopeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="14" startPosition="31" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="18" startPosition="63" endLine="19" endPosition="156" />
+    <scopeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="22" startPosition="49" endLine="23" endPosition="43" />
+    <scopeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <unitInfo nodeId="2591744203542882849" fileName="SqlQuery.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="mazin.sqlBuilder.structure.SqlQuery" />
+  </root>
+  <root nodeId="2591744203542882868">
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="10" startPosition="43" endLine="11" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="11" startPosition="80" endLine="12" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="FROM_BLOCK" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="12" startPosition="54" endLine="13" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="WHERE_BLOCK" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="15" startPosition="34" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="19" startPosition="35" endLine="20" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="23" startPosition="44" endLine="24" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="27" startPosition="37" endLine="28" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="31" startPosition="46" endLine="32" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="35" startPosition="66" endLine="36" endPosition="162" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="39" startPosition="52" endLine="40" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="14" startPosition="0" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SelectQuery#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getFromBlock#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setFromBlock#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getWhereBlock#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setWhereBlock#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/SelectQuery;" />
+    <nodeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="38" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/SelectQuery;" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="15" startPosition="34" endLine="16" endPosition="16" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="19" startPosition="35" endLine="20" endPosition="78" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="23" startPosition="44" endLine="24" endPosition="49" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="27" startPosition="37" endLine="28" endPosition="81" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="31" startPosition="46" endLine="32" endPosition="50" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="35" startPosition="66" endLine="36" endPosition="162" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="39" startPosition="52" endLine="40" endPosition="46" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="14" startPosition="0" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="38" startPosition="0" endLine="42" endPosition="0" />
+    <unitInfo nodeId="2591744203542882868" fileName="SelectQuery.java" startLine="10" startPosition="0" endLine="43" endPosition="0" unitName="mazin.sqlBuilder.structure.SelectQuery" />
+  </root>
+  <root nodeId="2591744203542882882">
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="13" startPosition="44" endLine="14" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="14" startPosition="78" endLine="15" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TABLE_REFERENCE" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="17" startPosition="32" endLine="18" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="21" startPosition="40" endLine="22" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="25" startPosition="53" endLine="26" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="29" startPosition="52" endLine="30" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="33" startPosition="54" endLine="34" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="37" startPosition="78" endLine="38" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="41" startPosition="64" endLine="42" endPosition="158" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="45" startPosition="50" endLine="46" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="16" startPosition="0" endLine="19" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="FromBlock#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTableReferencesCount#()I" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="tableReferences#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTableReferences#()Ljava/util/List;" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addTableReference#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertTableReference#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="40" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/FromBlock;" />
+    <nodeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/FromBlock;" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="17" startPosition="32" endLine="18" endPosition="16" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="21" startPosition="40" endLine="22" endPosition="57" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="25" startPosition="53" endLine="26" endPosition="74" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="29" startPosition="52" endLine="30" endPosition="77" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="33" startPosition="54" endLine="34" endPosition="51" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="37" startPosition="78" endLine="38" endPosition="60" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="41" startPosition="64" endLine="42" endPosition="158" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="45" startPosition="50" endLine="46" endPosition="44" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="16" startPosition="0" endLine="19" endPosition="3" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="40" startPosition="0" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <unitInfo nodeId="2591744203542882882" fileName="FromBlock.java" startLine="13" startPosition="0" endLine="49" endPosition="0" unitName="mazin.sqlBuilder.structure.FromBlock" />
+  </root>
+  <root nodeId="2591744203542882895">
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="15" startPosition="74" endLine="16" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="16" startPosition="83" endLine="17" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="NAME" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="17" startPosition="43" endLine="18" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SHORT_DESCRIPTION" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="18" startPosition="68" endLine="19" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ALIAS" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="19" startPosition="45" endLine="20" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VIRTUAL_PACKAGE" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="20" startPosition="64" endLine="21" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TABLE" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="21" startPosition="45" endLine="22" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SMODEL_ATTRIBUTE" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="24" startPosition="37" endLine="25" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="28" startPosition="27" endLine="29" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="32" startPosition="37" endLine="33" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="36" startPosition="39" endLine="37" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="40" startPosition="49" endLine="41" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="44" startPosition="28" endLine="45" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="48" startPosition="38" endLine="49" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="52" startPosition="37" endLine="53" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="56" startPosition="47" endLine="57" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="60" startPosition="27" endLine="61" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="64" startPosition="36" endLine="65" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="68" startPosition="41" endLine="69" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="72" startPosition="49" endLine="73" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="76" startPosition="48" endLine="77" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="80" startPosition="50" endLine="81" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="84" startPosition="69" endLine="85" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="88" startPosition="69" endLine="89" endPosition="168" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="92" startPosition="55" endLine="93" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="23" startPosition="0" endLine="26" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TableReference#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getShortDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setShortDescription#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getVirtualPackage#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="55" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setVirtualPackage#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="59" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTable#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="63" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setTable#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="67" startPosition="0" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributesCount#()I" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="71" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="smodelAttributes#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="75" startPosition="0" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributes#()Ljava/util/List;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="79" startPosition="0" endLine="83" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="83" startPosition="0" endLine="87" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="87" startPosition="0" endLine="91" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/TableReference;" />
+    <nodeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="91" startPosition="0" endLine="95" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/TableReference;" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="24" startPosition="37" endLine="25" endPosition="16" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="28" startPosition="27" endLine="29" endPosition="49" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="32" startPosition="37" endLine="33" endPosition="49" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="36" startPosition="39" endLine="37" endPosition="62" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="40" startPosition="49" endLine="41" endPosition="62" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="44" startPosition="28" endLine="45" endPosition="50" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="48" startPosition="38" endLine="49" endPosition="50" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="52" startPosition="37" endLine="53" endPosition="60" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="56" startPosition="47" endLine="57" endPosition="60" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="60" startPosition="27" endLine="61" endPosition="71" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="64" startPosition="36" endLine="65" endPosition="50" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="68" startPosition="41" endLine="69" endPosition="63" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="72" startPosition="49" endLine="73" endPosition="75" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="76" startPosition="48" endLine="77" endPosition="78" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="80" startPosition="50" endLine="81" endPosition="57" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="84" startPosition="69" endLine="85" endPosition="66" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="88" startPosition="69" endLine="89" endPosition="168" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="92" startPosition="55" endLine="93" endPosition="49" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="23" startPosition="0" endLine="26" endPosition="3" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="51" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="55" startPosition="0" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="59" startPosition="0" endLine="63" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="63" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="67" startPosition="0" endLine="71" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="71" startPosition="0" endLine="75" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="75" startPosition="0" endLine="79" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="79" startPosition="0" endLine="83" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="83" startPosition="0" endLine="87" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="87" startPosition="0" endLine="91" endPosition="0" />
+    <scopeInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="91" startPosition="0" endLine="95" endPosition="0" />
+    <unitInfo nodeId="2591744203542882895" fileName="TableReference.java" startLine="15" startPosition="0" endLine="96" endPosition="0" unitName="mazin.sqlBuilder.structure.TableReference" />
+  </root>
+  <root nodeId="2591744203542889910">
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="13" startPosition="45" endLine="14" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="14" startPosition="79" endLine="15" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TERM" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="17" startPosition="33" endLine="18" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="21" startPosition="30" endLine="22" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="25" startPosition="38" endLine="26" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="29" startPosition="37" endLine="30" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="33" startPosition="39" endLine="34" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="37" startPosition="58" endLine="38" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="41" startPosition="65" endLine="42" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="45" startPosition="51" endLine="46" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="16" startPosition="0" endLine="19" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="WhereBlock#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTermsCount#()I" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="terms#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTerms#()Ljava/util/List;" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addTerm#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertTerm#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="40" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/WhereBlock;" />
+    <nodeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/WhereBlock;" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="17" startPosition="33" endLine="18" endPosition="16" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="21" startPosition="30" endLine="22" endPosition="47" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="25" startPosition="38" endLine="26" endPosition="59" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="29" startPosition="37" endLine="30" endPosition="62" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="33" startPosition="39" endLine="34" endPosition="41" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="37" startPosition="58" endLine="38" endPosition="50" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="41" startPosition="65" endLine="42" endPosition="160" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="45" startPosition="51" endLine="46" endPosition="45" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="16" startPosition="0" endLine="19" endPosition="3" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="40" startPosition="0" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <unitInfo nodeId="2591744203542889910" fileName="WhereBlock.java" startLine="13" startPosition="0" endLine="49" endPosition="0" unitName="mazin.sqlBuilder.structure.WhereBlock" />
+  </root>
+  <root nodeId="2591744203542889914">
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="11" startPosition="44" endLine="12" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="12" startPosition="78" endLine="13" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="COLUMN" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="15" startPosition="32" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="19" startPosition="38" endLine="20" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="23" startPosition="47" endLine="24" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="27" startPosition="64" endLine="28" endPosition="158" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="31" startPosition="50" endLine="32" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="14" startPosition="0" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="WhereTerm#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumn#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setColumn#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/WhereTerm;" />
+    <nodeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/WhereTerm;" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="15" startPosition="32" endLine="16" endPosition="16" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="19" startPosition="38" endLine="20" endPosition="84" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="23" startPosition="47" endLine="24" endPosition="43" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="27" startPosition="64" endLine="28" endPosition="158" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="31" startPosition="50" endLine="32" endPosition="44" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="14" startPosition="0" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <unitInfo nodeId="2591744203542889914" fileName="WhereTerm.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="mazin.sqlBuilder.structure.WhereTerm" />
+  </root>
+  <root nodeId="2591744203542894501">
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="10" startPosition="48" endLine="11" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="11" startPosition="84" endLine="12" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VALUE" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="14" startPosition="38" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="18" startPosition="28" endLine="19" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="22" startPosition="38" endLine="23" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="26" startPosition="70" endLine="27" endPosition="170" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="30" startPosition="56" endLine="31" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SimpleWhereTerm#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setValue#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/SimpleWhereTerm;" />
+    <nodeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/SimpleWhereTerm;" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="14" startPosition="38" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="18" startPosition="28" endLine="19" endPosition="51" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="22" startPosition="38" endLine="23" endPosition="51" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="26" startPosition="70" endLine="27" endPosition="170" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="30" startPosition="56" endLine="31" endPosition="50" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <unitInfo nodeId="2591744203542894501" fileName="SimpleWhereTerm.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="mazin.sqlBuilder.structure.SimpleWhereTerm" />
+  </root>
+  <root nodeId="2591744203542894514">
+    <nodeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="10" startPosition="59" endLine="11" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="13" startPosition="39" endLine="14" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="17" startPosition="71" endLine="18" endPosition="172" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="21" startPosition="57" endLine="22" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="12" startPosition="0" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="NotNullWhereTerm#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/NotNullWhereTerm;" />
+    <nodeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/NotNullWhereTerm;" />
+    <scopeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="13" startPosition="39" endLine="14" endPosition="16" />
+    <scopeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="17" startPosition="71" endLine="18" endPosition="172" />
+    <scopeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="21" startPosition="57" endLine="22" endPosition="51" />
+    <scopeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="12" startPosition="0" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <unitInfo nodeId="2591744203542894514" fileName="NotNullWhereTerm.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="mazin.sqlBuilder.structure.NotNullWhereTerm" />
+  </root>
+  <root nodeId="2591744203542894515">
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="11" startPosition="52" endLine="12" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="12" startPosition="88" endLine="13" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="EXPRESSION" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="15" startPosition="42" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="19" startPosition="37" endLine="20" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="23" startPosition="46" endLine="24" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="27" startPosition="74" endLine="28" endPosition="178" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="31" startPosition="60" endLine="32" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="14" startPosition="0" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ExpressionWhereTerm#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getExpression#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setExpression#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/ExpressionWhereTerm;" />
+    <nodeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/ExpressionWhereTerm;" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="15" startPosition="42" endLine="16" endPosition="16" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="19" startPosition="37" endLine="20" endPosition="88" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="23" startPosition="46" endLine="24" endPosition="57" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="27" startPosition="74" endLine="28" endPosition="178" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="31" startPosition="60" endLine="32" endPosition="54" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="14" startPosition="0" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <unitInfo nodeId="2591744203542894515" fileName="ExpressionWhereTerm.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="mazin.sqlBuilder.structure.ExpressionWhereTerm" />
+  </root>
+  <root nodeId="2591744203542894532">
+    <nodeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="10" startPosition="59" endLine="11" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="13" startPosition="39" endLine="14" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="17" startPosition="71" endLine="18" endPosition="172" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="21" startPosition="57" endLine="22" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="12" startPosition="0" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ForEachWhereTerm#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/ForEachWhereTerm;" />
+    <nodeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/ForEachWhereTerm;" />
+    <scopeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="13" startPosition="39" endLine="14" endPosition="16" />
+    <scopeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="17" startPosition="71" endLine="18" endPosition="172" />
+    <scopeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="21" startPosition="57" endLine="22" endPosition="51" />
+    <scopeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="12" startPosition="0" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <unitInfo nodeId="2591744203542894532" fileName="ForEachWhereTerm.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="mazin.sqlBuilder.structure.ForEachWhereTerm" />
+  </root>
+  <root nodeId="2591744203542906410">
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="15" startPosition="68" endLine="16" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="16" startPosition="74" endLine="17" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="NAME" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="17" startPosition="43" endLine="18" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SHORT_DESCRIPTION" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="18" startPosition="68" endLine="19" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ALIAS" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="19" startPosition="45" endLine="20" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VIRTUAL_PACKAGE" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="20" startPosition="64" endLine="21" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="COLUMN" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="21" startPosition="47" endLine="22" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SMODEL_ATTRIBUTE" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="24" startPosition="28" endLine="25" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="28" startPosition="27" endLine="29" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="32" startPosition="37" endLine="33" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="36" startPosition="39" endLine="37" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="40" startPosition="49" endLine="41" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="44" startPosition="28" endLine="45" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="48" startPosition="38" endLine="49" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="52" startPosition="37" endLine="53" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="56" startPosition="47" endLine="57" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="60" startPosition="32" endLine="61" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="64" startPosition="37" endLine="65" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="68" startPosition="36" endLine="69" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="72" startPosition="38" endLine="73" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="76" startPosition="54" endLine="77" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="80" startPosition="41" endLine="81" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="84" startPosition="49" endLine="85" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="88" startPosition="48" endLine="89" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="92" startPosition="50" endLine="93" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="96" startPosition="69" endLine="97" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="100" startPosition="60" endLine="101" endPosition="150" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="104" startPosition="46" endLine="105" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="23" startPosition="0" endLine="26" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Table#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getShortDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setShortDescription#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getVirtualPackage#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="55" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setVirtualPackage#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="59" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumnsCount#()I" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="63" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="columns#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="67" startPosition="0" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumns#()Ljava/util/List;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="71" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addColumn#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="75" startPosition="0" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertColumn#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="79" startPosition="0" endLine="83" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributesCount#()I" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="83" startPosition="0" endLine="87" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="smodelAttributes#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="87" startPosition="0" endLine="91" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributes#()Ljava/util/List;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="91" startPosition="0" endLine="95" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="95" startPosition="0" endLine="99" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="99" startPosition="0" endLine="103" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/Table;" />
+    <nodeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="103" startPosition="0" endLine="107" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/Table;" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="24" startPosition="28" endLine="25" endPosition="16" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="28" startPosition="27" endLine="29" endPosition="40" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="32" startPosition="37" endLine="33" endPosition="40" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="36" startPosition="39" endLine="37" endPosition="53" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="40" startPosition="49" endLine="41" endPosition="53" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="44" startPosition="28" endLine="45" endPosition="41" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="48" startPosition="38" endLine="49" endPosition="41" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="52" startPosition="37" endLine="53" endPosition="51" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="56" startPosition="47" endLine="57" endPosition="51" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="60" startPosition="32" endLine="61" endPosition="44" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="64" startPosition="37" endLine="65" endPosition="53" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="68" startPosition="36" endLine="69" endPosition="56" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="72" startPosition="38" endLine="73" endPosition="38" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="76" startPosition="54" endLine="77" endPosition="47" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="80" startPosition="41" endLine="81" endPosition="54" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="84" startPosition="49" endLine="85" endPosition="66" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="88" startPosition="48" endLine="89" endPosition="69" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="92" startPosition="50" endLine="93" endPosition="48" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="96" startPosition="69" endLine="97" endPosition="57" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="100" startPosition="60" endLine="101" endPosition="150" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="104" startPosition="46" endLine="105" endPosition="40" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="23" startPosition="0" endLine="26" endPosition="3" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="51" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="55" startPosition="0" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="59" startPosition="0" endLine="63" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="63" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="67" startPosition="0" endLine="71" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="71" startPosition="0" endLine="75" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="75" startPosition="0" endLine="79" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="79" startPosition="0" endLine="83" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="83" startPosition="0" endLine="87" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="87" startPosition="0" endLine="91" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="91" startPosition="0" endLine="95" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="95" startPosition="0" endLine="99" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="99" startPosition="0" endLine="103" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906410" fileName="Table.java" startLine="103" startPosition="0" endLine="107" endPosition="0" />
+    <unitInfo nodeId="2591744203542906410" fileName="Table.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="mazin.sqlBuilder.structure.Table" />
+  </root>
+  <root nodeId="2591744203542906412">
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="16" startPosition="69" endLine="17" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="17" startPosition="75" endLine="18" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="NAME" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="18" startPosition="43" endLine="19" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SHORT_DESCRIPTION" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="19" startPosition="68" endLine="20" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ALIAS" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="20" startPosition="45" endLine="21" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VIRTUAL_PACKAGE" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="21" startPosition="64" endLine="22" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TYPE" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="22" startPosition="43" endLine="23" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SMODEL_ATTRIBUTE" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="25" startPosition="29" endLine="26" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="29" startPosition="27" endLine="30" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="33" startPosition="37" endLine="34" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="37" startPosition="39" endLine="38" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="41" startPosition="49" endLine="42" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="45" startPosition="28" endLine="46" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="49" startPosition="38" endLine="50" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="53" startPosition="37" endLine="54" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="57" startPosition="47" endLine="58" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="61" startPosition="25" endLine="62" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="65" startPosition="34" endLine="66" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="69" startPosition="41" endLine="70" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="73" startPosition="49" endLine="74" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="77" startPosition="48" endLine="78" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="81" startPosition="50" endLine="82" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="85" startPosition="69" endLine="86" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="89" startPosition="61" endLine="90" endPosition="152" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="93" startPosition="47" endLine="94" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="24" startPosition="0" endLine="27" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Column#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getShortDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="40" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setShortDescription#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="48" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="52" startPosition="0" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getVirtualPackage#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="56" startPosition="0" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setVirtualPackage#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="60" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getType#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="64" startPosition="0" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setType#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="68" startPosition="0" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributesCount#()I" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="72" startPosition="0" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="smodelAttributes#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="76" startPosition="0" endLine="80" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributes#()Ljava/util/List;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="80" startPosition="0" endLine="84" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="84" startPosition="0" endLine="88" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="88" startPosition="0" endLine="92" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/Column;" />
+    <nodeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="92" startPosition="0" endLine="96" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/Column;" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="25" startPosition="29" endLine="26" endPosition="16" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="29" startPosition="27" endLine="30" endPosition="41" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="33" startPosition="37" endLine="34" endPosition="41" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="37" startPosition="39" endLine="38" endPosition="54" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="41" startPosition="49" endLine="42" endPosition="54" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="45" startPosition="28" endLine="46" endPosition="42" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="49" startPosition="38" endLine="50" endPosition="42" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="53" startPosition="37" endLine="54" endPosition="52" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="57" startPosition="47" endLine="58" endPosition="52" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="61" startPosition="25" endLine="62" endPosition="57" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="65" startPosition="34" endLine="66" endPosition="38" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="69" startPosition="41" endLine="70" endPosition="55" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="73" startPosition="49" endLine="74" endPosition="67" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="77" startPosition="48" endLine="78" endPosition="70" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="81" startPosition="50" endLine="82" endPosition="49" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="85" startPosition="69" endLine="86" endPosition="58" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="89" startPosition="61" endLine="90" endPosition="152" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="93" startPosition="47" endLine="94" endPosition="41" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="24" startPosition="0" endLine="27" endPosition="3" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="40" startPosition="0" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="48" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="52" startPosition="0" endLine="56" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="56" startPosition="0" endLine="60" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="60" startPosition="0" endLine="64" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="64" startPosition="0" endLine="68" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="68" startPosition="0" endLine="72" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="72" startPosition="0" endLine="76" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="76" startPosition="0" endLine="80" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="80" startPosition="0" endLine="84" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="84" startPosition="0" endLine="88" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="88" startPosition="0" endLine="92" endPosition="0" />
+    <scopeInfo nodeId="2591744203542906412" fileName="Column.java" startLine="92" startPosition="0" endLine="96" endPosition="0" />
+    <unitInfo nodeId="2591744203542906412" fileName="Column.java" startLine="16" startPosition="0" endLine="97" endPosition="0" unitName="mazin.sqlBuilder.structure.Column" />
+  </root>
+  <root nodeId="2591744203542913490">
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="11" startPosition="50" endLine="12" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="12" startPosition="84" endLine="13" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TABLE" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="13" startPosition="45" endLine="14" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="COLUMN" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="16" startPosition="38" endLine="17" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="20" startPosition="36" endLine="21" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="24" startPosition="45" endLine="25" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="28" startPosition="29" endLine="29" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="32" startPosition="38" endLine="33" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="36" startPosition="70" endLine="37" endPosition="170" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="40" startPosition="56" endLine="41" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="15" startPosition="0" endLine="18" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ColumnReference#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="19" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTable#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setTable#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumn#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setColumn#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/ColumnReference;" />
+    <nodeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/ColumnReference;" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="16" startPosition="38" endLine="17" endPosition="16" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="20" startPosition="36" endLine="21" endPosition="90" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="24" startPosition="45" endLine="25" endPosition="51" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="28" startPosition="29" endLine="29" endPosition="75" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="32" startPosition="38" endLine="33" endPosition="52" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="36" startPosition="70" endLine="37" endPosition="170" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="40" startPosition="56" endLine="41" endPosition="50" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="15" startPosition="0" endLine="18" endPosition="3" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="19" startPosition="0" endLine="23" endPosition="0" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <unitInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="11" startPosition="0" endLine="44" endPosition="0" unitName="mazin.sqlBuilder.structure.ColumnReference" />
+  </root>
+</debugInfo>
+

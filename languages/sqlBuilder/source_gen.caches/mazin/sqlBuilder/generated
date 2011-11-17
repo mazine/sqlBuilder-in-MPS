@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="9wvu9oqbqdemah3wkvs6rcvwajsl4xn">
+<dependencies version="2" modelHash="-679eu90l56y98mka14g7frxcyral3p7">
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" />
-  <dep model="r:61cf2b56-4b15-46be-8cff-6bd918750d90(mazin.sqlBuilder.typesystem)" hash="-e7j2lb3gfux4ogyn066itb5u7gjd5u0" />
+  <dep model="r:61cf2b56-4b15-46be-8cff-6bd918750d90(mazin.sqlBuilder.typesystem)" hash="zaxylp9o78a1rjtdtnvxfelt9yc15f" />
   <dep model="r:aa31e43e-9240-4f4d-b6db-5c1c9a86c59e(jetbrains.mps.lang.project.structure)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />

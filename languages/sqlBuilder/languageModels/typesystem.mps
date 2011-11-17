@@ -22,6 +22,10 @@
       <property name="name" nameId="tpck.1169194664001" value="typeof_NotNullWhereTerm" />
       <property name="virtualPackage" nameId="tpck.1193676396447" value="select.where" />
     </node>
+    <node type="tpd4.InferenceRule" typeId="tpd4.1174643105530" id="5538758456164630848">
+      <property name="name" nameId="tpck.1169194664001" value="typeof_IfWhereTerm" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="select.where" />
+    </node>
   </roots>
   <root id="2591744203542972766">
     <node role="body" roleId="tpd4.1195213635060" type="tpee.StatementList" typeId="tpee.1068580123136" id="2591744203542972767">
@@ -114,6 +118,68 @@
     <node role="applicableNode" roleId="tpd4.1174648101952" type="tpd4.ConceptReference" typeId="tpd4.1174642788531" id="2591744203542972801">
       <property name="name" nameId="tpck.1169194664001" value="term" />
       <link role="concept" roleId="tpd4.1174642800329" targetNodeId="4528.2591744203542894514" resolveInfo="NotNullWhereTerm" />
+    </node>
+  </root>
+  <root id="5538758456164630848">
+    <node role="body" roleId="tpd4.1195213635060" type="tpee.StatementList" typeId="tpee.1068580123136" id="5538758456164630849">
+      <node role="statement" roleId="tpee.1068581517665" type="tpd4.CreateLessThanInequationStatement" typeId="tpd4.1174663118805" id="5538758456164669490">
+        <node role="rightExpression" roleId="tpd4.1174660783414" type="tpd4.NormalTypeClause" typeId="tpd4.1185788614172" id="5538758456164669494">
+          <node role="normalType" roleId="tpd4.1185788644032" type="tp3r.Quotation" typeId="tp3r.1196350785113" id="5538758456164669495">
+            <node role="quotedNode" roleId="tp3r.1196350785114" type="tpee.BooleanType" typeId="tpee.1070534644030" id="5538758456164669497" />
+          </node>
+        </node>
+        <node role="leftExpression" roleId="tpd4.1174660783413" type="tpd4.NormalTypeClause" typeId="tpd4.1185788614172" id="5538758456164669493">
+          <node role="normalType" roleId="tpd4.1185788644032" type="tpd4.TypeOfExpression" typeId="tpd4.1174657487114" id="5538758456164634518">
+            <node role="term" roleId="tpd4.1174657509053" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5538758456164637322">
+              <node role="operand" roleId="tpee.1197027771414" type="tpd4.ApplicableNodeReference" typeId="tpd4.1174650418652" id="5538758456164637321">
+                <link role="applicableNode" roleId="tpd4.1174650432090" targetNodeId="5538758456164630850" resolveInfo="term" />
+              </node>
+              <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="5538758456164669489">
+                <link role="link" roleId="tp25.1138056516764" targetNodeId="4528.5538758456164630818" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node role="statement" roleId="tpee.1068581517665" type="tpd4.CreateLessThanInequationStatement" typeId="tpd4.1174663118805" id="5538758456164669508">
+        <property name="checkOnly" nameId="tpd4.1206359757216" value="true" />
+        <node role="rightExpression" roleId="tpd4.1174660783414" type="tpd4.NormalTypeClause" typeId="tpd4.1185788614172" id="5538758456164669512">
+          <node role="normalType" roleId="tpd4.1185788644032" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5538758456164669525">
+            <node role="operand" roleId="tpee.1197027771414" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5538758456164669520">
+              <node role="operand" roleId="tpee.1197027771414" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5538758456164669514">
+                <node role="operand" roleId="tpee.1197027771414" type="tpd4.ApplicableNodeReference" typeId="tpd4.1174650418652" id="5538758456164669513">
+                  <link role="applicableNode" roleId="tpd4.1174650432090" targetNodeId="5538758456164630850" resolveInfo="term" />
+                </node>
+                <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="5538758456164669519">
+                  <link role="link" roleId="tp25.1138056516764" targetNodeId="4528.2591744203542913509" />
+                </node>
+              </node>
+              <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="5538758456164669524">
+                <link role="link" roleId="tp25.1138056516764" targetNodeId="4528.2591744203542913492" />
+              </node>
+            </node>
+            <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="5538758456164669529">
+              <link role="link" roleId="tp25.1138056516764" targetNodeId="4528.2591744203542906438" />
+            </node>
+          </node>
+        </node>
+        <node role="leftExpression" roleId="tpd4.1174660783413" type="tpd4.NormalTypeClause" typeId="tpd4.1185788614172" id="5538758456164669511">
+          <node role="normalType" roleId="tpd4.1185788644032" type="tpd4.TypeOfExpression" typeId="tpd4.1174657487114" id="5538758456164669500">
+            <node role="term" roleId="tpd4.1174657509053" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5538758456164669503">
+              <node role="operand" roleId="tpee.1197027771414" type="tpd4.ApplicableNodeReference" typeId="tpd4.1174650418652" id="5538758456164669502">
+                <link role="applicableNode" roleId="tpd4.1174650432090" targetNodeId="5538758456164630850" resolveInfo="term" />
+              </node>
+              <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="5538758456164669507">
+                <link role="link" roleId="tp25.1138056516764" targetNodeId="4528.2591744203542894516" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node role="applicableNode" roleId="tpd4.1174648101952" type="tpd4.ConceptReference" typeId="tpd4.1174642788531" id="5538758456164630850">
+      <property name="name" nameId="tpck.1169194664001" value="term" />
+      <link role="concept" roleId="tpd4.1174642800329" targetNodeId="4528.5538758456164630817" resolveInfo="IfWhereTerm" />
     </node>
   </root>
 </model>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="TypesystemDescriptor.java" startLine="8" startPosition="0" endLine="20" endPosition="0" unitName="mazin.sqlBuilder.typesystem.TypesystemDescriptor" />
+  <unitInfo fileName="TypesystemDescriptor.java" startLine="8" startPosition="0" endLine="24" endPosition="0" unitName="mazin.sqlBuilder.typesystem.TypesystemDescriptor" />
   <root nodeId="2591744203542972766">
     <nodeInfo nodeId="2591744203542972778" fileName="typeof_ForEachWhereTerm_InferenceRule.java" startLine="26" startPosition="5" endLine="27" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
     <nodeInfo nodeId="2591744203542972778" fileName="typeof_ForEachWhereTerm_InferenceRule.java" startLine="27" startPosition="93" endLine="28" endPosition="193" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
@@ -126,6 +126,72 @@
     <scopeInfo nodeId="2591744203542972799" fileName="typeof_NotNullWhereTerm_InferenceRule.java" startLine="29" startPosition="0" endLine="36" endPosition="0" />
     <scopeInfo nodeId="2591744203542972799" fileName="typeof_NotNullWhereTerm_InferenceRule.java" startLine="17" startPosition="0" endLine="25" endPosition="0" />
     <unitInfo nodeId="2591744203542972799" fileName="typeof_NotNullWhereTerm_InferenceRule.java" startLine="14" startPosition="0" endLine="41" endPosition="0" unitName="mazin.sqlBuilder.typesystem.typeof_NotNullWhereTerm_InferenceRule" />
+  </root>
+  <root nodeId="5538758456164630848">
+    <nodeInfo nodeId="5538758456164669490" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="22" startPosition="5" endLine="23" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164669490" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="23" startPosition="92" endLine="24" endPosition="193" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164669490" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="24" startPosition="193" endLine="25" endPosition="356" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5538758456164669508" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="27" startPosition="5" endLine="28" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164669508" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="28" startPosition="93" endLine="29" endPosition="193" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164669508" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="29" startPosition="193" endLine="30" endPosition="388" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="34" startPosition="46" endLine="35" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="39" startPosition="5" endLine="40" endPosition="117" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="40" startPosition="117" endLine="41" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="45" startPosition="30" endLine="46" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="53" startPosition="76" endLine="54" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="54" startPosition="26" endLine="55" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="55" startPosition="67" endLine="56" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="57" startPosition="7" endLine="58" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="58" startPosition="160" endLine="59" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="59" startPosition="43" endLine="60" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="61" startPosition="7" endLine="62" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="65" startPosition="31" endLine="66" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="66" startPosition="26" endLine="67" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="67" startPosition="67" endLine="68" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="69" startPosition="7" endLine="70" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="70" startPosition="160" endLine="71" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="71" startPosition="43" endLine="72" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="73" startPosition="7" endLine="74" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="17" startPosition="118" endLine="19" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="typeof_IfWhereTerm_InferenceRule#()V" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="49" startPosition="52" endLine="51" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="QuotationClass_n11tan_a0a0a0#()V" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="38" startPosition="68" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="overrides#()Z" />
+    <nodeInfo nodeId="5538758456164669490" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="21" startPosition="117" endLine="26" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5538758456164669508" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="26" startPosition="5" endLine="31" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="56" startPosition="32" endLine="61" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="56" startPosition="32" endLine="61" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="68" startPosition="32" endLine="73" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="68" startPosition="32" endLine="73" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="37" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="52" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createNode#(Ljetbrains/mps/typesystem/inference/TypeCheckingContext;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="64" startPosition="0" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createNode#()Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="20" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="applyRule#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="18" startPosition="45" endLine="18" endPosition="45" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="50" startPosition="43" endLine="50" endPosition="43" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="34" startPosition="46" endLine="35" endPosition="52" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="45" startPosition="30" endLine="46" endPosition="17" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="17" startPosition="118" endLine="19" endPosition="3" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="39" startPosition="5" endLine="41" endPosition="45" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="49" startPosition="52" endLine="51" endPosition="5" />
+    <scopeInfo nodeId="5538758456164669490" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="22" startPosition="5" endLine="25" endPosition="356" />
+    <scopeInfo nodeId="5538758456164669508" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="27" startPosition="5" endLine="30" endPosition="388" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="57" startPosition="7" endLine="60" endPosition="31" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="69" startPosition="7" endLine="72" endPosition="31" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="38" startPosition="68" endLine="42" endPosition="5" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="56" startPosition="32" endLine="61" endPosition="7" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="68" startPosition="32" endLine="73" endPosition="7" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="37" startPosition="0" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="53" startPosition="76" endLine="62" endPosition="20" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="65" startPosition="31" endLine="74" endPosition="20" />
+    <scopeInfo nodeId="5538758456164630849" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="21" startPosition="117" endLine="31" endPosition="5" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="52" startPosition="0" endLine="64" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="64" startPosition="0" endLine="76" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="20" startPosition="0" endLine="33" endPosition="0" />
+    <unitInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="49" startPosition="0" endLine="77" endPosition="0" unitName="mazin.sqlBuilder.typesystem.typeof_IfWhereTerm_InferenceRule$QuotationClass_n11tan_a0a0a0" />
+    <unitInfo nodeId="5538758456164630848" fileName="typeof_IfWhereTerm_InferenceRule.java" startLine="17" startPosition="0" endLine="78" endPosition="0" unitName="mazin.sqlBuilder.typesystem.typeof_IfWhereTerm_InferenceRule" />
   </root>
 </debugInfo>
 

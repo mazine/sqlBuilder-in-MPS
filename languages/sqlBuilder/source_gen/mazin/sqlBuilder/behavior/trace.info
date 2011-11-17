@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
+  <unitInfo fileName="IfWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.IfWhereTerm_BehaviorDescriptor" />
   <unitInfo fileName="ForEachWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.ForEachWhereTerm_BehaviorDescriptor" />
   <unitInfo fileName="ExpressionWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.ExpressionWhereTerm_BehaviorDescriptor" />
   <unitInfo fileName="NotNullWhereTerm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="mazin.sqlBuilder.behavior.NotNullWhereTerm_BehaviorDescriptor" />
@@ -15,6 +16,6 @@
   <unitInfo fileName="Table_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="mazin.sqlBuilder.behavior.Table_BehaviorDescriptor" />
   <unitInfo fileName="TableReference_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="mazin.sqlBuilder.behavior.TableReference_BehaviorDescriptor" />
   <unitInfo fileName="SqlBuilder_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="mazin.sqlBuilder.behavior.SqlBuilder_BehaviorDescriptor" />
-  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="mazin.sqlBuilder.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="48" endPosition="0" unitName="mazin.sqlBuilder.behavior.BehaviorAspectDescriptor" />
 </debugInfo>
 

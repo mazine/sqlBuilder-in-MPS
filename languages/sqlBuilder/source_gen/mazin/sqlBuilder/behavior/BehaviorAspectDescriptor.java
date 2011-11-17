@@ -7,37 +7,39 @@ import java.util.Arrays;
 import jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted;
 
 public class BehaviorAspectDescriptor implements jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor {
-  private static String[] stringSwitchCases_846f5o_a0a0a = new String[]{"mazin.sqlBuilder.structure.Column", "mazin.sqlBuilder.structure.ColumnReference", "mazin.sqlBuilder.structure.ForEachWhereTerm", "mazin.sqlBuilder.structure.FromBlock", "mazin.sqlBuilder.structure.NotNullWhereTerm", "mazin.sqlBuilder.structure.SelectQuery", "mazin.sqlBuilder.structure.SimpleWhereTerm", "mazin.sqlBuilder.structure.SqlBuilder", "mazin.sqlBuilder.structure.SqlBuildersMethodCall", "mazin.sqlBuilder.structure.Table", "mazin.sqlBuilder.structure.TableReference", "mazin.sqlBuilder.structure.WhereBlock"};
+  private static String[] stringSwitchCases_846f5o_a0a0a = new String[]{"mazin.sqlBuilder.structure.Column", "mazin.sqlBuilder.structure.ColumnReference", "mazin.sqlBuilder.structure.ForEachWhereTerm", "mazin.sqlBuilder.structure.FromBlock", "mazin.sqlBuilder.structure.IfWhereTerm", "mazin.sqlBuilder.structure.NotNullWhereTerm", "mazin.sqlBuilder.structure.SelectQuery", "mazin.sqlBuilder.structure.SimpleWhereTerm", "mazin.sqlBuilder.structure.SqlBuilder", "mazin.sqlBuilder.structure.SqlBuildersMethodCall", "mazin.sqlBuilder.structure.Table", "mazin.sqlBuilder.structure.TableReference", "mazin.sqlBuilder.structure.WhereBlock"};
 
   public BehaviorAspectDescriptor() {
   }
 
   public BehaviorDescriptor getDescriptor(String fqName) {
     switch (Arrays.binarySearch(stringSwitchCases_846f5o_a0a0a, fqName)) {
-      case 7:
+      case 8:
         return new SqlBuilder_BehaviorDescriptor();
-      case 5:
+      case 6:
         return new SelectQuery_BehaviorDescriptor();
       case 3:
         return new FromBlock_BehaviorDescriptor();
-      case 10:
-        return new TableReference_BehaviorDescriptor();
       case 11:
+        return new TableReference_BehaviorDescriptor();
+      case 12:
         return new WhereBlock_BehaviorDescriptor();
-      case 6:
+      case 7:
         return new SimpleWhereTerm_BehaviorDescriptor();
-      case 4:
+      case 5:
         return new NotNullWhereTerm_BehaviorDescriptor();
       case 2:
         return new ForEachWhereTerm_BehaviorDescriptor();
-      case 9:
+      case 10:
         return new Table_BehaviorDescriptor();
       case 0:
         return new Column_BehaviorDescriptor();
       case 1:
         return new ColumnReference_BehaviorDescriptor();
-      case 8:
+      case 9:
         return new SqlBuildersMethodCall_BehaviorDescriptor();
+      case 4:
+        return new IfWhereTerm_BehaviorDescriptor();
       default:
         return BehaviorAspectInterpreted.getInstance().getDescriptor(fqName);
     }

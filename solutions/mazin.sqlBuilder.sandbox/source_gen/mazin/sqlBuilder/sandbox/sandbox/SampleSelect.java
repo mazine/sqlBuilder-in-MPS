@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.HashMap;
 import jetbrains.mps.internal.collections.runtime.ListSequence;
 import java.util.ArrayList;
+import org.apache.commons.lang.StringUtils;
+import jetbrains.mps.baseLanguage.closures.runtime._FunctionTypes;
 import java.util.Iterator;
 
 public class SampleSelect {
@@ -20,12 +22,17 @@ public class SampleSelect {
   public String buildQuery() {
     StringBuilder queryBuilder = new StringBuilder();
     queryBuilder.append("select * ");
-    queryBuilder.append("from ").append("MY_TABLE as a").append("MY_TABLE as b").append("MY_TABLE").append("MY_TABLE as c").append(' ');
+    queryBuilder.append("from ").append("MY_TABLE as a").append(' ');
     StringBuilder whereBuilder = new StringBuilder();
     and(whereBuilder);
-    whereBuilder.append("a.MY_I").append(" = ").append("1");
-    ifNotNull(whereBuilder, "a.MY_S", "MY_S_26bir7_b0a", form.getMyS());
-    forEach(whereBuilder, "c.MY_I", "MY_I_26bir7_c0a", ListSequence.fromListAndArray(new ArrayList<Integer>(), 1, 2, 3));
+    whereBuilder.append("a.MY_I").append(" = ").append("hjavha");
+    ifNotNull(whereBuilder, "a.MY_I", "MY_I_26bir7_b0a", form.getMyI());
+    forEach(whereBuilder, "a.MY_S", "MY_S_26bir7_c0a", ListSequence.fromListAndArray(new ArrayList<String>(), "a", "b"));
+    conditional(whereBuilder, StringUtils.isNotEmpty(form.getMyS()), "a.MY_S", "MY_S_26bir7_d0a", new _FunctionTypes._return_P0_E0<Object>() {
+      public Object invoke() {
+        return (Object) (form.getMyS());
+      }
+    });
     if (whereBuilder.length() > 0) {
       queryBuilder.append("where ").append(whereBuilder);
     }
@@ -38,15 +45,23 @@ public class SampleSelect {
     }
   }
 
-  protected void ifNotNull(StringBuilder whereBuilder, String column, String placeholder, Object value) {
-    if (value != null) {
+  protected void ifNotNull(StringBuilder whereBuilder, String column, String placeholder, final Object value) {
+    conditional(whereBuilder, value != null, column, placeholder, new _FunctionTypes._return_P0_E0<Object>() {
+      public Object invoke() {
+        return value;
+      }
+    });
+  }
+
+  protected void conditional(StringBuilder whereBuilder, boolean condition, String column, String placeholder, _FunctionTypes._return_P0_E0<? extends Object> getValue) {
+    if (condition) {
       and(whereBuilder);
       whereBuilder.append(column).append(" = :").append(placeholder);
-      values.put(placeholder, value);
+      values.put(placeholder, getValue.invoke());
     }
   }
 
-  protected <T> void forEach(StringBuilder whereBuilder, String column, String placehoder, Iterable<T> values) {
+  protected <T> void forEach(StringBuilder whereBuilder, String column, String placeholder, Iterable<T> values) {
     if (values == null) {
       return;
     }
@@ -61,11 +76,15 @@ public class SampleSelect {
         if (index > 0) {
           whereBuilder.append(", ");
         }
-        whereBuilder.append(':').append(placehoder).append(index);
-        this.values.put(placehoder + index, value);
+        appendPlaceholder(whereBuilder, placeholder + index, value);
       } while (iterator.hasNext());
 
       whereBuilder.append(']');
     }
+  }
+
+  private void appendPlaceholder(StringBuilder whereBuilder, String placeholder, Object value) {
+    whereBuilder.append(':').append(placeholder);
+    this.values.put(placeholder, value);
   }
 }

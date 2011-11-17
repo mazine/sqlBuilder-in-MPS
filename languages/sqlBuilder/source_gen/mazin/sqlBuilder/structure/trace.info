@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="SqlBuilder_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="mazin.sqlBuilder.structure.SqlBuilder_Language" />
-  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="53" endPosition="0" unitName="mazin.sqlBuilder.structure.StructureAspectDescriptor" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="55" endPosition="0" unitName="mazin.sqlBuilder.structure.StructureAspectDescriptor" />
   <root nodeId="1217947231272806420">
     <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="12" startPosition="59" endLine="13" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
     <nodeInfo nodeId="1217947231272806420" fileName="SqlBuildersMethodCall.java" startLine="15" startPosition="44" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
@@ -639,6 +639,31 @@
     <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
     <scopeInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
     <unitInfo nodeId="2591744203542913490" fileName="ColumnReference.java" startLine="11" startPosition="0" endLine="44" endPosition="0" unitName="mazin.sqlBuilder.structure.ColumnReference" />
+  </root>
+  <root nodeId="5538758456164630817">
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="11" startPosition="54" endLine="12" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="12" startPosition="80" endLine="13" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="CONDITION" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="15" startPosition="34" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="19" startPosition="36" endLine="20" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="23" startPosition="45" endLine="24" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="27" startPosition="66" endLine="28" endPosition="162" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="31" startPosition="52" endLine="32" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="14" startPosition="0" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="IfWhereTerm#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getCondition#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setCondition#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lmazin/sqlBuilder/structure/IfWhereTerm;" />
+    <nodeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lmazin/sqlBuilder/structure/IfWhereTerm;" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="15" startPosition="34" endLine="16" endPosition="16" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="19" startPosition="36" endLine="20" endPosition="79" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="23" startPosition="45" endLine="24" endPosition="48" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="27" startPosition="66" endLine="28" endPosition="162" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="31" startPosition="52" endLine="32" endPosition="46" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="14" startPosition="0" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <unitInfo nodeId="5538758456164630817" fileName="IfWhereTerm.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="mazin.sqlBuilder.structure.IfWhereTerm" />
   </root>
 </debugInfo>
 

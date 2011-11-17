@@ -9,6 +9,7 @@
     <classNode dependClassName="mazin.sqlBuilder.behavior.Column_BehaviorDescriptor" />
     <classNode dependClassName="mazin.sqlBuilder.behavior.ForEachWhereTerm_BehaviorDescriptor" />
     <classNode dependClassName="mazin.sqlBuilder.behavior.FromBlock_BehaviorDescriptor" />
+    <classNode dependClassName="mazin.sqlBuilder.behavior.IfWhereTerm_BehaviorDescriptor" />
     <classNode dependClassName="mazin.sqlBuilder.behavior.NotNullWhereTerm_BehaviorDescriptor" />
     <classNode dependClassName="mazin.sqlBuilder.behavior.SelectQuery_BehaviorDescriptor" />
     <classNode dependClassName="mazin.sqlBuilder.behavior.SimpleWhereTerm_BehaviorDescriptor" />
@@ -51,6 +52,12 @@
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="mazin.sqlBuilder.behavior.IfWhereTerm_BehaviorDescriptor" file="IfWhereTerm_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="mazin.sqlBuilder.behavior.ExpressionWhereTerm_BehaviorDescriptor" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="mazin.sqlBuilder.behavior.NotNullWhereTerm_BehaviorDescriptor" file="NotNullWhereTerm_BehaviorDescriptor.java">

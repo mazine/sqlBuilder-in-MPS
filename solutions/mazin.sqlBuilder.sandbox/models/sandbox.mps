@@ -4,6 +4,7 @@
   <language namespace="4e0fa1e8-e45e-46a1-b8b4-12a5bfa6456c(mazin.sqlBuilder)" />
   <language namespace="f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)" />
   <language namespace="83888646-71ce-4f1c-9c53-c54016f6ad4f(jetbrains.mps.baseLanguage.collections)" />
+  <import index="k7g3" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" version="-1" />
   <import index="4528" modelUID="r:2123d50c-ec1f-4b36-9eb4-443aebb3dfa0(mazin.sqlBuilder.structure)" version="-1" implicit="yes" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="3" implicit="yes" />
@@ -21,59 +22,60 @@
     </node>
   </roots>
   <root id="2591744203542889787">
-    <node role="query" roleId="4528.2591744203542882854" type="4528.SelectQuery" typeId="4528.2591744203542882868" id="2591744203542889904">
-      <node role="fromBlock" roleId="4528.2591744203542882884" type="4528.FromBlock" typeId="4528.2591744203542882882" id="2591744203542889905">
-        <node role="tableReference" roleId="4528.2591744203542882900" type="4528.TableReference" typeId="4528.2591744203542882895" id="2591744203542980802">
+    <node role="query" roleId="4528.2591744203542882854" type="4528.SelectQuery" typeId="4528.2591744203542882868" id="5538758456164830939">
+      <node role="fromBlock" roleId="4528.2591744203542882884" type="4528.FromBlock" typeId="4528.2591744203542882882" id="5538758456164830940">
+        <node role="tableReference" roleId="4528.2591744203542882900" type="4528.TableReference" typeId="4528.2591744203542882895" id="5538758456164830943">
           <property name="name" nameId="tpck.1169194664001" value="a" />
           <link role="table" roleId="4528.2591744203542913485" targetNodeId="2591744203542913477" resolveInfo="MY_TABLE" />
         </node>
-        <node role="tableReference" roleId="4528.2591744203542882900" type="4528.TableReference" typeId="4528.2591744203542882895" id="1217947231272793487">
-          <property name="name" nameId="tpck.1169194664001" value="b" />
-          <link role="table" roleId="4528.2591744203542913485" targetNodeId="2591744203542913477" resolveInfo="MY_TABLE" />
-        </node>
-        <node role="tableReference" roleId="4528.2591744203542882900" type="4528.TableReference" typeId="4528.2591744203542882895" id="1217947231272793489">
-          <link role="table" roleId="4528.2591744203542913485" targetNodeId="2591744203542913477" resolveInfo="MY_TABLE" />
-        </node>
-        <node role="tableReference" roleId="4528.2591744203542882900" type="4528.TableReference" typeId="4528.2591744203542882895" id="1217947231272793491">
-          <property name="name" nameId="tpck.1169194664001" value="c" />
-          <link role="table" roleId="4528.2591744203542913485" targetNodeId="2591744203542913477" resolveInfo="MY_TABLE" />
-        </node>
       </node>
-      <node role="whereBlock" roleId="4528.2591744203542889911" type="4528.WhereBlock" typeId="4528.2591744203542889910" id="2591744203542893547">
-        <node role="term" roleId="4528.2591744203542889923" type="4528.SimpleWhereTerm" typeId="4528.2591744203542894501" id="2591744203542972749">
-          <property name="value" nameId="4528.2591744203542894512" value="1" />
-          <node role="column" roleId="4528.2591744203542913509" type="4528.ColumnReference" typeId="4528.2591744203542913490" id="2591744203542982677">
-            <link role="table" roleId="4528.2591744203542913491" targetNodeId="2591744203542980802" resolveInfo="a" />
+      <node role="whereBlock" roleId="4528.2591744203542889911" type="4528.WhereBlock" typeId="4528.2591744203542889910" id="5538758456164830942">
+        <node role="term" roleId="4528.2591744203542889923" type="4528.SimpleWhereTerm" typeId="4528.2591744203542894501" id="5538758456164830952">
+          <property name="value" nameId="4528.2591744203542894512" value="hjavha" />
+          <node role="column" roleId="4528.2591744203542913509" type="4528.ColumnReference" typeId="4528.2591744203542913490" id="5538758456164830954">
+            <link role="table" roleId="4528.2591744203542913491" targetNodeId="5538758456164830943" resolveInfo="a" />
             <link role="column" roleId="4528.2591744203542913492" targetNodeId="2591744203542913482" resolveInfo="MY_I" />
           </node>
         </node>
-        <node role="term" roleId="4528.2591744203542889923" type="4528.NotNullWhereTerm" typeId="4528.2591744203542894514" id="2591744203542972756">
-          <node role="column" roleId="4528.2591744203542913509" type="4528.ColumnReference" typeId="4528.2591744203542913490" id="2591744203542972759">
-            <link role="column" roleId="4528.2591744203542913492" targetNodeId="2591744203542913479" resolveInfo="MY_S" />
-            <link role="table" roleId="4528.2591744203542913491" targetNodeId="2591744203542980802" resolveInfo="a" />
+        <node role="term" roleId="4528.2591744203542889923" type="4528.NotNullWhereTerm" typeId="4528.2591744203542894514" id="5538758456164830957">
+          <node role="expression" roleId="4528.2591744203542894516" type="4528.SqlBuildersMethodCall" typeId="4528.1217947231272806420" id="5538758456164830962">
+            <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="2591744203542889803" resolveInfo="getMyI" />
           </node>
-          <node role="expression" roleId="4528.2591744203542894516" type="4528.SqlBuildersMethodCall" typeId="4528.1217947231272806420" id="1217947231272898949">
-            <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="2591744203542889809" resolveInfo="getMyS" />
+          <node role="column" roleId="4528.2591744203542913509" type="4528.ColumnReference" typeId="4528.2591744203542913490" id="5538758456164830960">
+            <link role="table" roleId="4528.2591744203542913491" targetNodeId="5538758456164830943" resolveInfo="a" />
+            <link role="column" roleId="4528.2591744203542913492" targetNodeId="2591744203542913482" resolveInfo="MY_I" />
           </node>
         </node>
-        <node role="term" roleId="4528.2591744203542889923" type="4528.ForEachWhereTerm" typeId="4528.2591744203542894532" id="1217947231272804556">
-          <node role="expression" roleId="4528.2591744203542894516" type="tpee.GenericNewExpression" typeId="tpee.1145552977093" id="1217947231272804562">
-            <node role="creator" roleId="tpee.1145553007750" type="tp2q.ListCreatorWithInit" typeId="tp2q.1160600644654" id="1217947231272804564">
-              <node role="elementType" roleId="tp2q.1237721435807" type="tpee.IntegerType" typeId="tpee.1070534370425" id="1217947231272804567" />
-              <node role="initValue" roleId="tp2q.1237721435808" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1217947231272804569">
-                <property name="value" nameId="tpee.1068580320021" value="1" />
+        <node role="term" roleId="4528.2591744203542889923" type="4528.ForEachWhereTerm" typeId="4528.2591744203542894532" id="5538758456164830965">
+          <node role="expression" roleId="4528.2591744203542894516" type="tpee.GenericNewExpression" typeId="tpee.1145552977093" id="5538758456164842613">
+            <node role="creator" roleId="tpee.1145553007750" type="tp2q.ListCreatorWithInit" typeId="tp2q.1160600644654" id="5538758456164842615">
+              <node role="elementType" roleId="tp2q.1237721435807" type="tpee.StringType" typeId="tpee.1225271177708" id="5538758456164842617" />
+              <node role="initValue" roleId="tp2q.1237721435808" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5538758456164842619">
+                <property name="value" nameId="tpee.1070475926801" value="a" />
               </node>
-              <node role="initValue" roleId="tp2q.1237721435808" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1217947231272804571">
-                <property name="value" nameId="tpee.1068580320021" value="2" />
-              </node>
-              <node role="initValue" roleId="tp2q.1237721435808" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1217947231272804573">
-                <property name="value" nameId="tpee.1068580320021" value="3" />
+              <node role="initValue" roleId="tp2q.1237721435808" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5538758456164842621">
+                <property name="value" nameId="tpee.1070475926801" value="b" />
               </node>
             </node>
           </node>
-          <node role="column" roleId="4528.2591744203542913509" type="4528.ColumnReference" typeId="4528.2591744203542913490" id="1217947231272804559">
-            <link role="table" roleId="4528.2591744203542913491" targetNodeId="1217947231272793491" resolveInfo="c" />
-            <link role="column" roleId="4528.2591744203542913492" targetNodeId="2591744203542913482" resolveInfo="MY_I" />
+          <node role="column" roleId="4528.2591744203542913509" type="4528.ColumnReference" typeId="4528.2591744203542913490" id="5538758456164830968">
+            <link role="table" roleId="4528.2591744203542913491" targetNodeId="5538758456164830943" resolveInfo="a" />
+            <link role="column" roleId="4528.2591744203542913492" targetNodeId="2591744203542913479" resolveInfo="MY_S" />
+          </node>
+        </node>
+        <node role="term" roleId="4528.2591744203542889923" type="4528.IfWhereTerm" typeId="4528.5538758456164630817" id="5538758456164842951">
+          <node role="condition" roleId="4528.5538758456164630818" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5538758456164842956">
+            <node role="operand" roleId="tpee.1197027771414" type="4528.SqlBuildersMethodCall" typeId="4528.1217947231272806420" id="5538758456164842955">
+              <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="2591744203542889809" resolveInfo="getMyS" />
+            </node>
+            <node role="operation" roleId="tpee.1197027833540" type="tpee.IsNotEmptyOperation" typeId="tpee.1225271408483" id="5538758456164842960" />
+          </node>
+          <node role="expression" roleId="4528.2591744203542894516" type="4528.SqlBuildersMethodCall" typeId="4528.1217947231272806420" id="5538758456164842962">
+            <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="2591744203542889809" resolveInfo="getMyS" />
+          </node>
+          <node role="column" roleId="4528.2591744203542913509" type="4528.ColumnReference" typeId="4528.2591744203542913490" id="5538758456164842961">
+            <link role="table" roleId="4528.2591744203542913491" targetNodeId="5538758456164830943" resolveInfo="a" />
+            <link role="column" roleId="4528.2591744203542913492" targetNodeId="2591744203542913479" resolveInfo="MY_S" />
           </node>
         </node>
       </node>
